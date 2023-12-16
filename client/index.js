@@ -1,4 +1,4 @@
-const mercadopago = new MercadoPago("TEST-4921b64a-6ee7-4620-be47-89871216367b",{
+const mercadopago = new MercadoPago("#",{
     locale: "es-AR"
 });
 
