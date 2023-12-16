@@ -7,7 +7,7 @@ const mercadopago = require("mercadopago");
 
 // REPLACE WITH YOUR ACCESS TOKEN AVAILABLE IN: https://developers.mercadopago.com/panel
 mercadopago.configure({
-	access_token: "TEST-8428702159762453-121312-6539c040c8b91e7dae67bb81ebb0ea6c-282177569",
+	access_token: "#",
 });
 
 
